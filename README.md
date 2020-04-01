@@ -1,2 +1,2 @@
-# Collision-Detection-Algorithm
-It changes color when the two sprite object collide with each other.
+# p5.play-boilerplate
+Boiler plate for p5.play
